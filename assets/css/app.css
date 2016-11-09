@@ -1,1 +1,10 @@
 /* Write your styles */
+.am-g .am-form select{
+	padding: 0;
+}
+.am-g .am-form img{
+	width: 320px;
+}
+.am-g .am-form td{
+	vertical-align: middle !important
+}	
